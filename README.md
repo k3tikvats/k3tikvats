@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @k3tikvats
-- 👀 I’m interested in Web development,security systems
+- 👀 I’m interested in Web n App development,security systems
 - 🌱 I’m currently learning Develpment and DSA
 - 📫 How to reach me kartikvatsdtu@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like chemistry!
+- ⚡ Fun fact: I like hacking into other systems!
 
 <!---
 k3tikvats/k3tikvats is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
