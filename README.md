@@ -13,7 +13,7 @@
 - 👀 I’m interested in ML-DL and CyberSecurity
 <!-- 👯 I’m looking to collaborate on open-source projects-->
 - 💬 Ask me about DSA, JS, Flutter, and Dart, Machine Learning
-- 📫 How to reach me:  kartikvatsdtu@gmail.com
+- 📫 How to reach me:  kartikvatsj@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like hacking into other systems!
 <!--
