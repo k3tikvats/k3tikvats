@@ -9,10 +9,10 @@
 ## About Me
 
 <!-- - 🔭 I’m currently working on [ MOOFLI ](https://github.com/NAME-ASHWANIYADAV/moofli_fullstack)-->
-- 🌱 I’m currently learning LLMs, Transformers and Jailbreaking
+- 🌱 I’m currently learning about LLMs, Transformers and Jailbreaking
 - 👀 I’m interested in ML-DL and CyberSecurity
 <!-- 👯 I’m looking to collaborate on open-source projects-->
-- 💬 Ask me about DSA, JS, Flutter, and Dart, Machine Learning
+- 💬 Ask me about DSA, MERN, Flutter, Dart, and Machine Learning
 - 📫 How to reach me:  kartikvatsj@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like hacking into other systems!
