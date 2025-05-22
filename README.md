@@ -9,7 +9,7 @@
 ## About Me
 
 <!-- - 🔭 I’m currently working on [ MOOFLI ](https://github.com/NAME-ASHWANIYADAV/moofli_fullstack)-->
-- 🌱 I’m currently learning MERN stack and Deep Learning
+- 🌱 I’m currently learning LLMs, Transformers and Jailbreaking
 - 👀 I’m interested in ML-DL and CyberSecurity
 <!-- 👯 I’m looking to collaborate on open-source projects-->
 - 💬 Ask me about DSA, JS, Flutter, and Dart, Machine Learning
