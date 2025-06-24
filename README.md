@@ -9,8 +9,8 @@
 ## About Me
 
 <!-- - 🔭 I’m currently working on [ MOOFLI ](https://github.com/NAME-ASHWANIYADAV/moofli_fullstack)-->
-- 🌱 I’m currently learning about LLMs, Transformers and LLM Security
-- 👀 I’m interested in ML-DL , CyberSecurity and Fintech
+- 🌱 I’m currently learning about CNNs, Transformers, LLMs and LLM Security
+- 👀 I’m interested in ML-DL , Computer Vision, CyberSecurity and Fintech
 <!-- 👯 I’m looking to collaborate on open-source projects-->
 - 💬 Ask me about DSA, MERN, Flutter, Dart, and Machine Learning
 - 📫 How to reach me:  kartikvatsj@gmail.com
