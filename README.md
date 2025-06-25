@@ -1,5 +1,8 @@
-# Hi there, I'm Kartik Vats 👋
+# Hi , I'm Kartik Vats 👋
+==============================
 
+AI/ML Developer and Researcher
+--------------------------
 <!--
 
 [![GitHub followers](https://img.shields.io/github/followers/johndoe?label=Follow&style=social)](https://github.com/johndoe)
