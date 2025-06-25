@@ -1,7 +1,6 @@
 # Hi , I'm Kartik Vats 👋
-==============================
 
-AI/ML Developer and Researcher
+## AI/ML Developer and Researcher
 --------------------------
 <!--
 
