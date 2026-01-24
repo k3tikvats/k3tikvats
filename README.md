@@ -1,21 +1,72 @@
-# Hi , I'm Kartik Vats 👋
+<h1 align="center">Hi 👋, I'm Kartik Vats</h1>
+<h2 align="center">Applied AI Engineer | Deep Learning Research | ML Systems | Competitive Programming</h2>
 
-<!--
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=k3tikvats&label=Profile%20views&color=2e86de&style=flat-square" alt="k3tikvats" />
+</p>
 
-[![GitHub followers](https://img.shields.io/github/followers/johndoe?label=Follow&style=social)](https://github.com/johndoe)
-[![Twitter Follow](https://img.shields.io/twitter/follow/johndoe?style=social)](https://twitter.com/johndoe)
--->
+<h3><strong>Hey. Welcome to my GitHub.</strong></h3>
 
-## About Me
+<p>
+I’m a Computer Science undergraduate at <strong>Delhi Technological University (DTU)</strong>. I work on machine learning systems where <strong>theory, implementation, and performance all matter</strong>. My interests revolve around deep learning research, generative models, LLM safety, retrieval-augmented generation (RAG), and low-latency ML systems.
+</p>
 
-<!-- - 🔭 I’m currently working on [ MOOFLI ](https://github.com/NAME-ASHWANIYADAV/moofli_fullstack)-->
-- 🌱 I’m currently learning about CNNs, Transformers, LLMs and LLM Security
-- 👀 I’m interested in ML-DL , Computer Vision, CyberSecurity and Fintech
-<!-- 👯 I’m looking to collaborate on open-source projects-->
-- 💬 Ask me about DSA, MERN, Flutter, Dart, and Machine Learning
-- 📫 How to reach me:  kartikvatsj@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like hacking into other systems!
+<p>
+A lot of my repos come from a simple motivation: <em>understand things deeply, then build them properly</em>. That’s why you’ll find <strong>Transformers implemented from scratch</strong>, research papers re-created end-to-end, and systems designed with attention to stability, metrics, and failure modes.
+</p>
+
+<p>
+Some things I’ve built here:
+<ul>
+  <li><strong>SAR → EO Image Translation using CycleGAN</strong> — translating 2-band SAR imagery into 13-band multispectral EO images while preserving semantic and spectral consistency.</li>
+  <li><strong>InquireAI</strong> — a real-time RAG-based AI search assistant with streaming responses, source ranking, and production-style backend design.</li>
+  <li><strong>LLM Safety Framework</strong> — red teaming pipelines, DistilBERT-based safety classifiers, and multi-strategy mitigation to reduce unsafe generations.</li>
+  <li><strong>Market Regime Detection System</strong> — unsupervised learning on high-frequency financial data using engineered microstructure features.</li>
+  <li><strong>BidNet</strong> — a low-latency real-time bidding engine optimized for scale and decision speed.</li>
+</ul>
+</p>
+
+<p>
+Alongside ML, I spend a lot of time on <strong>competitive programming</strong>. This repo also hosts solutions to the <strong>CSES Problem Set</strong>, <strong>Advent of Code</strong>, and curated CP sheets — because strong fundamentals make better ML engineers.
+</p>
+
+<p>
+I enjoy working on problems where models fail quietly, data is messy, and performance constraints are real. Debugging unstable GAN training, reducing hallucinations in RAG pipelines, or squeezing milliseconds out of inference paths — that’s my comfort zone.
+</p>
+
+<p>
+Outside code, I read late at night, overthink everything, imagine cinematic scenes that don’t exist, and somehow lose hours scrolling reels that were supposed to last five minutes. Debug logs and emotions have similar energy.
+</p>
+
+<p>
+This GitHub is my workspace — experiments, research implementations, system builds, and lessons learned the hard way.  
+If something here sparks an idea, a critique, or a collaboration, I’m always open.
+</p>
+
+<p>
+<strong>P.S.</strong> If any project made you think <em>“this feels production-ready”</em>, here’s my 
+<a href="https://your-resume-link-here" target="_blank">resume</a>. Let’s build something meaningful.
+</p>
+
+<div align="left">
+  <h3>Connect with me</h3>
+
+  <a href="mailto:kartikvatsj@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="32" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/kartik-vats/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="32" />
+  </a>
+
+  <a href="https://leetcode.com/k3tikvats/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&color=FFA116&logoColor=black&style=for-the-badge" height="32" />
+  </a>
+
+  <a href="https://codeforces.com/profile/k3tikvats" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&color=1F8ACB&logoColor=white&style=for-the-badge" height="32" />
+  </a>
+</div>
 <!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
