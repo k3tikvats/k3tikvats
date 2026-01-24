@@ -52,20 +52,20 @@ If something here sparks an idea, a critique, or a collaboration, I’m always o
   <h3>Connect with me</h3>
 
   <a href="mailto:kartikvatsj@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="32" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
 
   <a href="https://www.linkedin.com/in/k3tikvats/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="32" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
+  <a href="https://discord.com/users/cycrawwler" target="_blank"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  <!-- <a href="https://leetcode.com/kartikvatsdtu/" target="_blank"> -->
+    <!-- <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&color=FFA116&logoColor=black&style=for-the-badge" height="32" /> -->
+  <!-- </a> -->
 
-  <a href="https://leetcode.com/kartikvatsdtu/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&color=FFA116&logoColor=black&style=for-the-badge" height="32" />
-  </a>
-
-  <a href="https://codeforces.com/profile/Kartik_vats" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&color=1F8ACB&logoColor=white&style=for-the-badge" height="32" />
-  </a>
+  <!-- <a href="https://codeforces.com/profile/Kartik_vats" target="_blank"> -->
+    <!-- <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&color=1F8ACB&logoColor=white&style=for-the-badge" height="32" /> -->
+  <!-- </a> -->
 </div>
 <!--
 <h3 align="left">Languages and Tools:</h3>
