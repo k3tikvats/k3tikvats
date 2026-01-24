@@ -59,6 +59,7 @@ If something here sparks an idea, a critique, or a collaboration, I’m always o
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   <a href="https://discord.com/users/cycrawwler" target="_blank"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  </a>
   <!-- <a href="https://leetcode.com/kartikvatsdtu/" target="_blank"> -->
     <!-- <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&color=FFA116&logoColor=black&style=for-the-badge" height="32" /> -->
   <!-- </a> -->
