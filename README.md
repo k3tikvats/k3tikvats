@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartik Vats</h1>
-<h2 align="center">Applied AI Engineer | Deep Learning Research | ML Systems | Competitive Programming</h2>
+<h2 align="center">Applied AI Engineer | Deep Learning Research | GenAI & ML Systems | Competitive Programming</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=k3tikvats&label=Profile%20views&color=2e86de&style=flat-square" alt="k3tikvats" />
