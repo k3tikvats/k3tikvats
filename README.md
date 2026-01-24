@@ -8,7 +8,7 @@
 <h3><strong>Hey. Welcome to my GitHub.</strong></h3>
 
 <p>
-I’m a Computer Science undergraduate at <strong>Delhi Technological University (DTU)</strong>. I work on machine learning systems where <strong>theory, implementation, and performance all matter</strong>. My interests revolve around deep learning research, generative models, LLM safety, retrieval-augmented generation (RAG), and low-latency ML systems.
+I’m a Computer Science undergraduate at <strong>Delhi Technological University (DTU)</strong>, focused on building intelligent systems that bridge <strong>algorithmic thinking and real-world applications</strong>. My work spans machine learning research, computer vision, NLP, and <strong>GenAI systems</strong> — including <strong>RAG pipelines, agent workflows, and low-latency ML systems — with equal emphasis on correctness, scalability, and performance.
 </p>
 
 <p>
