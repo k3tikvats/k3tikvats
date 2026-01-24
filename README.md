@@ -44,8 +44,8 @@ If something here sparks an idea, a critique, or a collaboration, I’m always o
 </p>
 
 <p>
-<strong>P.S.</strong> If any project made you think <em>“this feels production-ready”</em>, here’s my 
-<a href="https://your-resume-link-here" target="_blank">resume</a>. Let’s build something meaningful.
+<strong>P.S.</strong> If any project made you think <em>“Wait… this could actually ship 👀”</em>, here’s my 
+<a href="https://drive.google.com/file/d/1ZrTKofiwyHGAxGhHcJ0n7Le7x12QN6P4/view?usp=sharing" target="_blank">resume</a>. Let’s build something meaningful.
 </p>
 
 <div align="left">
@@ -55,15 +55,15 @@ If something here sparks an idea, a critique, or a collaboration, I’m always o
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="32" />
   </a>
 
-  <a href="https://www.linkedin.com/in/kartik-vats/" target="_blank">
+  <a href="https://www.linkedin.com/in/k3tikvats/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="32" />
   </a>
 
-  <a href="https://leetcode.com/k3tikvats/" target="_blank">
+  <a href="https://leetcode.com/kartikvatsdtu/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&color=FFA116&logoColor=black&style=for-the-badge" height="32" />
   </a>
 
-  <a href="https://codeforces.com/profile/k3tikvats" target="_blank">
+  <a href="https://codeforces.com/profile/Kartik_vats" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&color=1F8ACB&logoColor=white&style=for-the-badge" height="32" />
   </a>
 </div>
