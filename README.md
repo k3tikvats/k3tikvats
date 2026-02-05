@@ -46,7 +46,7 @@ If something here sparks an idea, a critique, or a collaboration, I’m always o
 
 <p>
 <strong>P.S.</strong> If any project made you think <em>“Wait… this could actually ship 👀”</em>, here’s my 
-<a href="https://drive.google.com/file/d/1ZrTKofiwyHGAxGhHcJ0n7Le7x12QN6P4/view?usp=sharing" target="_blank">resume</a>. Let’s build something meaningful.
+<a href="https://drive.google.com/file/d/1vS0sJg05iBEQp_cRi3eDJtpYEuuAL-91/view?usp=sharing" target="_blank">resume</a>. Let’s build something meaningful.
 </p>
 
 <div align="left">
