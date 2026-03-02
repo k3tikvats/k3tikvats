@@ -12,7 +12,7 @@ I’m a Computer Science undergraduate at <strong>Delhi Technological University
 </p>
 
 <p>
-A lot of my repos come from a simple motivation: <em>understand things deeply, then build them properly</em>. That’s why you’ll find <strong>Transformers implemented from scratch</strong>, research papers re-created end-to-end, and systems designed with attention to stability, metrics, and failure modes.
+A lot of my repos come from a simple motivation: <em>understand things deeply, then build them properly</em>. That’s why you’ll find <strong>Transformers implemented from scratch</strong>, research papers re-created end-to-end, and systems designed with attention to stability, metrics, and failure modes and adversarial robustness.
 </p>
 
 <p>
@@ -28,15 +28,15 @@ Some things I’ve built here:
 </p>
 
 <p>
-Alongside ML, I spend a lot of time on <strong>competitive programming</strong>. This repo also hosts solutions to the <strong>CSES Problem Set</strong>, <strong>Advent of Code</strong>, and curated CP sheets — because strong fundamentals make better ML engineers.
+Alongside ML, I spend a lot of time on <strong>competitive programming</strong> and <strong>cybersecurity</strong> — not as separate hobbies, but as the same instinct: find the edge case, break the assumption, then build something that holds. This repo also hosts solutions to the <strong>CSES Problem Set</strong>, <strong>Advent of Code</strong>, and curated CP sheets, alongside CTF challenges I've designed — because strong fundamentals and offensive thinking make better ML engineers.
 </p>
 
 <p>
-I enjoy working on problems where models fail quietly, data is messy, and performance constraints are real. Debugging unstable GAN training, reducing hallucinations in RAG pipelines, or squeezing milliseconds out of inference paths — that’s my comfort zone.
+I enjoy working on problems where models fail quietly, data is messy, and performance constraints are real. Debugging unstable GAN training, reducing hallucinations in RAG pipelines, probing LLMs for adversarial inputs, or squeezing milliseconds out of inference paths - that's my comfort zone.
 </p>
 
 <p>
-Outside code, I read late at night, overthink everything, imagine cinematic scenes that don’t exist, and somehow lose hours scrolling reels that were supposed to last five minutes. Debug logs and emotions have similar energy.
+Outside code, I read late at night, overthink everything, and somehow lose hours scrolling reels that were supposed to last five minutes — occasionally pausing to think "I could've directed this better." I hit the gym to cope and storyboard scenes in my head that will probably never get made. Debug logs and emotions have similar energy.
 </p>
 
 <p>
